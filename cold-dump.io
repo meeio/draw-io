@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T10:24:23.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Vh1Bkp02Px0gIvl1IWfJ" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T13:03:41.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="2C9p3QQSjeNQzbC8VtJO" version="14.8.3" type="github">
   <diagram id="OyVnHF239P7YGclG1Qus" name="Page-1">
-    <mxGraphModel dx="9920" dy="6047" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2429" dy="1264" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,15 +22,15 @@
         <mxCell id="PLuTV7WLIDK-T9JrUb5E-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;endArrow=classicThin;endFill=1;verticalAlign=middle;shadow=1;" parent="1" source="PLuTV7WLIDK-T9JrUb5E-1" target="US_qE6kjdplevu-13Kj7-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PLuTV7WLIDK-T9JrUb5E-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;定时任务开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;sketch=0;glass=0;shadow=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="PLuTV7WLIDK-T9JrUb5E-1" value="&lt;font style=&quot;font-size: 14px ; background-color: rgb(77 , 77 , 77)&quot; color=&quot;#ffffff&quot;&gt;定时任务开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;sketch=0;glass=0;shadow=1;strokeColor=#666666;fontColor=#333333;fillColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="82.87" y="147.64" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PLuTV7WLIDK-T9JrUb5E-2" value="&lt;p style=&quot;line-height: 110%&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;span&gt;&lt;b&gt;一条冷备信息包括&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;系统、园区、tid、cid、cl5&lt;p&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=1;shadow=1;glass=0;sketch=0;align=left;spacingLeft=4;" parent="1" vertex="1">
           <mxGeometry x="322.87" y="217.64" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PLuTV7WLIDK-T9JrUb5E-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;" parent="1" source="PLuTV7WLIDK-T9JrUb5E-6" target="PLuTV7WLIDK-T9JrUb5E-12" edge="1">
+        <mxCell id="PLuTV7WLIDK-T9JrUb5E-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" parent="1" source="PLuTV7WLIDK-T9JrUb5E-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="142.87" y="667.64" as="targetPoint" />
+            <mxPoint x="143" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PLuTV7WLIDK-T9JrUb5E-40" value="&lt;b&gt;Y&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="PLuTV7WLIDK-T9JrUb5E-11" vertex="1" connectable="0">
@@ -52,8 +52,8 @@
         <mxCell id="PLuTV7WLIDK-T9JrUb5E-6" value="&lt;font style=&quot;font-size: 12px&quot;&gt;冷备信息&lt;br&gt;迭代完成&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="82.87" y="457.64" width="120.01" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PLuTV7WLIDK-T9JrUb5E-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;定时任务结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;sketch=0;glass=0;shadow=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="82.87" y="707.64" width="120" height="35" as="geometry" />
+        <mxCell id="PLuTV7WLIDK-T9JrUb5E-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;定时任务结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;sketch=0;glass=0;shadow=1;strokeColor=#666666;fillColor=#4D4D4D;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="82.87" y="730" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PLuTV7WLIDK-T9JrUb5E-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" parent="1" source="PLuTV7WLIDK-T9JrUb5E-13" target="PLuTV7WLIDK-T9JrUb5E-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -73,8 +73,10 @@
         <mxCell id="PLuTV7WLIDK-T9JrUb5E-19" value="&lt;div class=&quot;document&quot;&gt;&lt;p class=&quot;paragraph text-align-type-justify pap-line-1 pap-line-rule-auto pap-spacing-before-0pt pap-spacing-after-0pt&quot; style=&quot;text-align: justify ; line-height: 100% ; margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;向 &lt;b&gt;COS&lt;/b&gt; 拉取 &lt;b&gt;cdi &lt;/b&gt;的&lt;b&gt;冷备指引&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="302.88" y="497.64" width="209.98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PLuTV7WLIDK-T9JrUb5E-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" parent="1" source="PLuTV7WLIDK-T9JrUb5E-24" target="PLuTV7WLIDK-T9JrUb5E-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PLuTV7WLIDK-T9JrUb5E-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PLuTV7WLIDK-T9JrUb5E-24" target="1sisE9bu9owDIswlq6je-455" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407.44827586206884" y="682.6399999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PLuTV7WLIDK-T9JrUb5E-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;shadow=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PLuTV7WLIDK-T9JrUb5E-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -87,17 +89,15 @@
         <mxCell id="PLuTV7WLIDK-T9JrUb5E-24" value="冷备指引的&lt;br&gt;最新条目晚于&lt;b&gt;t&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="342.87" y="556.64" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PLuTV7WLIDK-T9JrUb5E-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;fontColor=#000000;endArrow=classic;endFill=1;verticalAlign=middle;" parent="1" source="PLuTV7WLIDK-T9JrUb5E-26" edge="1">
+        <mxCell id="PLuTV7WLIDK-T9JrUb5E-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;fontColor=#000000;endArrow=classic;endFill=1;verticalAlign=middle;" parent="1" source="1sisE9bu9owDIswlq6je-454" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="142.87" y="317.64" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="552.87" y="712.64" />
-              <mxPoint x="552.87" y="317.64" />
+              <mxPoint x="553" y="760" />
+              <mxPoint x="553" y="318" />
             </Array>
+            <mxPoint x="513.8700000000001" y="712.5862068965516" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PLuTV7WLIDK-T9JrUb5E-26" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;根据&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;b&gt;冷备指引&lt;/b&gt;&lt;br&gt;执行新的核算任务&lt;br&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;size=0.05263157894736842;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="312.87" y="682.64" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PLuTV7WLIDK-T9JrUb5E-41" value="&lt;b&gt;Y&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="407.87" y="656.6366669444212" as="geometry" />
@@ -1087,6 +1087,26 @@
         </mxCell>
         <mxCell id="1sisE9bu9owDIswlq6je-451" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;核算数据展示模块&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2670" y="1700" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1sisE9bu9owDIswlq6je-453" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontColor=#FFFFFF;endArrow=classic;endFill=1;" edge="1" parent="1" source="1sisE9bu9owDIswlq6je-452" target="PLuTV7WLIDK-T9JrUb5E-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1sisE9bu9owDIswlq6je-452" value="&lt;div class=&quot;document&quot; style=&quot;line-height: 100%&quot;&gt;&lt;p class=&quot;paragraph text-align-type-justify pap-line-1 pap-line-rule-auto pap-spacing-before-0pt pap-spacing-after-0pt&quot; style=&quot;line-height: 100% ; margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;注册下一次定时任务&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="620" width="209.98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1sisE9bu9owDIswlq6je-454" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; letter-spacing: normal ; text-align: justify ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;执行新的核算任务&lt;br&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;size=0.05263157894736842;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="740" width="212.87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1sisE9bu9owDIswlq6je-456" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=sharp;jumpSize=8;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FFFFFF;endArrow=classic;endFill=1;entryX=0.512;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1sisE9bu9owDIswlq6je-455" target="1sisE9bu9owDIswlq6je-454">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="409" y="730" />
+              <mxPoint x="409" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1sisE9bu9owDIswlq6je-455" value="&lt;div class=&quot;document&quot; style=&quot;line-height: 100%&quot;&gt;&lt;p class=&quot;paragraph text-align-type-justify pap-line-1 pap-line-rule-auto pap-spacing-before-0pt pap-spacing-after-0pt&quot; style=&quot;line-height: 100% ; margin-top: 0px ; margin-bottom: 0px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; text-align: justify&quot;&gt;根据&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; text-align: justify&quot;&gt;t&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; text-align: justify&quot;&gt;&amp;nbsp;过滤出新增的冷备指引&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="680" width="209.98" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
